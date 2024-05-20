@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "305428036404",
+    "firebase_url": "https://holek-411821-default-rtdb.firebaseio.com",
+    "project_id": "holek-411821",
+    "storage_bucket": "holek-411821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305428036404:android:2bea8d878db7d7eccbc361",
+        "android_client_info": {
+          "package_name": "com.example.second"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhiHleYn2u1eovkB3MiRuWsUD6Ev7H4gY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
